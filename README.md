@@ -12,7 +12,7 @@ Install my-project with npm
   
 ```
     
-## How use it
+## How use it on terminal
 
 navigate to the folder where the code is found and execute with :
 ```bash
